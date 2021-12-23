@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Chamodya Sewwandi.
-Undergraduate.
+Undergraduate
 
 BSc(Hons) Software Engineering NSBM Green University.
 
