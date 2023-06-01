@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Programming languages**
 
-- 📫 How to reach me **Chamodyasewwandi99@gmail.com**      **https://www.linkedin.com/in/chamodya-gamage-398271218/**
+- 📫 How to reach me **Chamodyasewwandi99@gmail.com**     
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
