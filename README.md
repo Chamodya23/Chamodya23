@@ -1,12 +1,16 @@
-<h1 align="center">Hi 👋, I'm Kaveesha Rishini</h1>
+<h1 align="center">Hi 👋, I'm Chamodya Sewwandi</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding width="350" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🔭 I’m currently studying *Software Engineering at NSBM Green University*
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamodya23&label=Profile%20views&color=0e75b6&style=flat" alt="chamodya23" /> </p>
 
-- 🌱 I’m currently learning *Programming languages*
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me *kaveesharishini@gmail.com*
+- 🔭 I’m currently studying **Software Engineering in NSBM Green University.**
+
+- 🌱 I’m currently learning **Programming languages**
+
+- 📫 How to reach me **Chamodyasewwandi99@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
