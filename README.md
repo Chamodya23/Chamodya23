@@ -6,9 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently studying **Software Engineering in NSBM Green University.**
+- 🔭 I am currently pursuing a **Software Engineering Degree**.
 
-- 🌱 I’m currently learning **Programming languages**
+- 🎓 I'm a student at **National School of Business Managemet Green University**.
+
+- 🌱 I’m currently learning **Programming languages, Web Development, UI Designing**
 
 - 📫 How to reach me **Chamodyasewwandi99@gmail.com**  
 
